@@ -1,0 +1,25 @@
+1. Find all cancelled tickets:
+2. Get the list of all stations:
+3. List all ticket classes:
+4. View user details:
+5. Find all train details:
+6. View seat availability:
+7. Display reservations:
+8. List passenger details:
+9. Find users with active status:
+10. Find trains starting from 'SSS Hubballi':
+11. Find stations where 'Amaravathi Express' stops:
+12. Find train schedules for train number 2:
+13. Find available seats for train number1  1A on 2023-11-03:
+14. Find all reservations made by user ID 1:
+15. Find all passengers for PNR number 3:
+16. Find all cancelled tickets with a fare greater than 100:
+17. Find all station mappings starting from 'SSS Hubballi':
+18. Find the total number of seats available for class '1A' on train number 2:
+19. Find the total number of reservations made on 2023-11-03:
+20. Find all passengers with the name M.Suresh:
+21. Find the total number of cancelled tickets:
+22. Find the total number of seats available for class '2A' on 2023-11-03:
+23. given a train name we should obtain id, passenger details who has reserved a ticket in that train
+24. given a train number and class obtain passenger details reserved tickets in that train
+25. given a destination_station name give all the train's details which reach that station
